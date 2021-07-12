@@ -1,0 +1,66 @@
+
+- how to start with software development:
+	- use cases gebruiken als eerst bedenken / begeleider zorg dat heel duidelijk wordt wat men wilt/ sprint
+ 	- what is the starting point and the end wanted result input/output
+	- what are the steps/states diagram/ machine you need to go though to get van start tot end, where could problems/errors occur. 
+- system development tree
+	- sequence diagram  (search a nice example online)
+	- sprint review wekelijks (2 weken voor een sprint)
+
+- voorbeelden van code en how to comment needs to be explained
+-IDe uitlegggen welke er zijn
+
+visual studie (c#, c++)
+iron python, 
+pycharm
+jupiter anaconda
+
+
+
+Software ontwikkeling :
+
+- link github
+- issues in github aangeven en alleen op die manier (naar zohar stuk)
+
+
+
+- testen
+ 		- https://softwaretestingfundamentals.com/
+uitleggen welke test wanneer moet worden uitgevoerd, en hoe kies je wat je gaat testen (hoogste return on investement, dus niet een standaard functie testen). Een voorbeeld wat moet er in de unit test gedaan moet worden. Voorbeeld python, c#, c++ , misschien ook van project nemen, ook ergens laten zien dat met foto's. eigen geschreven functies testen 
+- doet de software wat het hoort te doen 
+- en werkt de software. 
+- testplan voorbeeld
+
+
+Hou het heel concreet en relateer het aan wat ze hebben geleerd bij andere projecten, voorbeelden geven om te helpen project 3de jaar groep 1. Handvatten geven. 
+
+
+rapportage :
+
+standard report structure:
+literature (all literature, aslo about testing)
+- use case is in methods,  
+- testen 
+- aangeven dat code zelf niet in de hoofdtekst, appendix kan het maar alleen je eigen code en belangrijk stukken. 
+
+issues/errors:
+
+- how to read an error/handle an error, IDE gebruiken,  die broomstructure
+- most common errors for python, c#, c++ , when a package is not loaded, on github? 
+
+
+
+Git:
+readme
+different folders for different parts
+user stories
+in folder, documents, examples 
+
+
+
+
+
+
+
+
+
